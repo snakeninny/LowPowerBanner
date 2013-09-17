@@ -1,0 +1,9 @@
+Package: com.naken.lowpowerbanner
+Name: LowPowerBanner
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Turns low battery alerts into banners!
+Maintainer: snakeninny@gmail.com
+Author: snakeninny & PrimeCode
+Section: Tweaks

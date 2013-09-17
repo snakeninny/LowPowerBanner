@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1. Customization is in "Actions' trigger". 2. Put your own png format icons under "/var/mobile/Library/LowPowerBanner/Icons/". 3. Put your own caf format ringtones under "/var/mobile/Library/LowPowerBanner/Ringtones/". 4. Google if you don't know how to customize png or caf files, don't email me for this! 5. Notice that you should lowercase all ringtone/icon files' extensions, i.e. use LowPowerBanner.caf rather than LowPowerBanner.CAF, Caf, etc. 6. Leave "Title" and "Message" empty to disable the banner.</key>
+	<string>1. Aggiungere azioni con diverse percentuali di batteria in "Aggiungi azione".
+
+2. Aggiungi le tue icone in formato png in "/var/mobile/Library/LowPowerBanner/Icons/".
+
+3. Aggiungi i tuoi suoni in formato caf in "/var/mobile/Library/LowPowerBanner/Ringtones/".
+
+4. Se non sapete come gestire i file png o caf cercate su Google, non mi inviare e-mail per questo!
+
+5. Le Estensioni delle icone e dei suoni devono essere in minuscolo.
+
+6. Lasciare vuoti i campi "Titolo" e "Messaggio" per disattivare la striscia di notifica.</string>
+	<key>Actions at %@%%</key>
+	<string>Azione al %@%%</string>
+	<key>Actions at X%? Input X.</key>
+	<string>Azione al X%? Acceso X.</string>
+	<key>Actions when plugged in</key>
+	<string>Azione quando connetti</string>
+	<key>Actions' trigger</key>
+	<string>Azione quando innesca</string>
+	<key>Charging</key>
+	<string>Caricamento</string>
+	<key>Donate via PayPal</key>
+	<string>Donazione</string>
+	<key>Draining</key>
+	<string>Scaricamento</string>
+	<key>Email me if you have tweak ideas!</key>
+	<string>Inviami le tue idee sui tweaks!</string>
+	<key>Help improve LowPowerBanner!</key>
+	<string>Aiutami a migliorare LowPowerBanner!</string>
+	<key>Icon</key>
+	<string>Icona</string>
+	<key>Message</key>
+	<string>Messaggio</string>
+	<key>OK</key>
+	<string>Accetta</string>
+	<key>Plugged in</key>
+	<string>Alla connessione</string>
+	<key>Readme</key>
+	<string>Leggimi</string>
+	<key>Ringtone</key>
+	<string>Suono</string>
+	<key>Share ideas and credits</key>
+	<string>Condividi le tue idee</string>
+	<key>Take a look at me before customizing!</key>
+	<string>Leggimi prima di personalizzare!</string>
+	<key>Title</key>
+	<string>Titolo</string>
+	<key>Triggers</key>
+	<string>Innesca</string>
+	<key>Vibrate</key>
+	<string>Vibrazione</string>
+</dict>
+</plist>

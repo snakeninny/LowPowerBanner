@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1. Customization is in "Actions' trigger".
+2. Put your own png format icons under "/var/mobile/Library/LowPowerBanner/Icons/".
+3. Put your own caf format ringtones under "/var/mobile/Library/LowPowerBanner/Ringtones/".
+4. Google if you don't know how to customize png or caf files, don't email me for this!
+5. Notice that you should lowercase all ringtone/icon files' extensions, i.e. use LowPowerBanner.caf rather than LowPowerBanner.CAF, Caf, etc.
+6. Leave "Title" and "Message" empty to disable the banner.</key>
+	<string>1. Настраивается в "Добавить баннер"
+2. Свои иконки в png закинуть в "/var/mobile/Library/LowPowerBanner/Icons/".
+3. Свои рингтоны в caf закинуть в "/var/mobile/Library/LowPowerBanner/Ringtones/".
+4. Если не знаете как конвертировать файлы, используйте Google.
+5. Расширения файлов должны быть в нижнем регистре, например: LowPowerBanner.caf и никак иначе.
+6. Оставьте поля  "Название" и "Текст" пустыми для отключения баннера.</string>
+	<key>Actions at %@%%</key>
+	<string>Баннер на %@%%</string>
+	<key>Actions at X%? Input X.</key>
+	<string>Введите % для добавления</string>
+	<key>Actions when plugged in</key>
+	<string>Баннер при подключении</string>
+	<key>Actions' trigger</key>
+	<string>Добавить баннер</string>
+	<key>Charging</key>
+	<string>При зарядке</string>
+	<key>Donate via PayPal</key>
+	<string>Поддержать через PayPal</string>
+	<key>Draining</key>
+	<string>При разрядке</string>
+	<key>Email me if you have tweak ideas!</key>
+	<string>Написать автору о своих идеях</string>
+	<key>Help improve LowPowerBanner!</key>
+	<string>Улучшить LowPowerBanner</string>
+	<key>Icon</key>
+	<string>Иконка</string>
+	<key>Message</key>
+	<string>Текст</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Plugged in</key>
+	<string>При подключении</string>
+	<key>Readme</key>
+	<string>Инструкции</string>
+	<key>Ringtone</key>
+	<string>Звук</string>
+	<key>Share ideas and credits</key>
+	<string>Поделиться идеями</string>
+	<key>Take a look at me before customizing!</key>
+	<string>Прочтите перед настройкой</string>
+	<key>Title</key>
+	<string>Название</string>
+	<key>Triggers</key>
+	<string>Баннер</string>
+	<key>Vibrate</key>
+	<string>Вибрировать</string>
+</dict>
+</plist>

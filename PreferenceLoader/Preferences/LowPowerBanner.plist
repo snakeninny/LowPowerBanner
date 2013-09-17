@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = LowPowerBanner;
+		cell = PSLinkCell;
+		detail = "LowPowerBannerListController";
+		icon = "icon.png";
+		isController = 1;
+		label = LowPowerBanner;
+	};
+}

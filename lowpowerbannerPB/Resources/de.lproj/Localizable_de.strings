@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1. Customization is in "Actions' trigger".
+2. Put your own png format icons under "/var/mobile/Library/LowPowerBanner/Icons/".
+3. Put your own caf format ringtones under "/var/mobile/Library/LowPowerBanner/Ringtones/".
+4. Google if you don't know how to customize png or caf files, don't email me for this!
+5. Notice that you should lowercase all ringtone/icon files' extensions, i.e. use LowPowerBanner.caf rather than LowPowerBanner.CAF, Caf, etc.
+6. Leave "Title" and "Message" empty to disable the banner.</key>
+	<string>1. Neue Aktionen können im Menüpunkt "Aktion erstellen" angelegt werden.
+2. Lege Deine eigenen Icons im PNG Format unter "/var/mobile/Library/LowPowerBanner/Icons/" ab.
+3. Lege Deine eigenen Klingeltöne im CAF Format unter "/var/mobile/Library/LowPowerBanner/Ringtones/" ab.
+4. Nutze Google falls Du nicht weißt wie Du PNG oder CAF Dateien bearbeitest, schreibe mir dazu keine Mails!
+5. Denke daran alle Dateierweiterungen für Klingeltöne und Icons klein zu schreiben, z.B. LowPowerBanner.caf anstatt LowPowerBanner.CAF, Caf, etc.
+6. Lasse "Titel" und "Nachricht" leer um das Banner zu deaktivieren.</string>
+	<key>Actions at %@%%</key>
+	<string>Aktion bei %@%%</string>
+	<key>Actions at X%? Input X.</key>
+	<string>Aktion bei X%? Eingabe X.</string>
+	<key>Actions when plugged in</key>
+	<string>Aktion beim Aufladen</string>
+	<key>Actions' trigger</key>
+	<string>Aktion erstellen</string>
+	<key>Charging</key>
+	<string>Aufladen</string>
+	<key>Donate via PayPal</key>
+	<string>Spende via PayPal</string>
+	<key>Draining</key>
+	<string>Entladen</string>
+	<key>Email me if you have tweak ideas!</key>
+	<string>Maile mir falls du Anregungen hast</string>
+	<key>Help improve LowPowerBanner!</key>
+	<string>Hilf LowPowerBanner zu verbessern!</string>
+	<key>Icon</key>
+	<string>Icon</string>
+	<key>Message</key>
+	<string>Nachricht</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Plugged in</key>
+	<string>Aufladen</string>
+	<key>Readme</key>
+	<string>Lies Mich</string>
+	<key>Ringtone</key>
+	<string>Klingelton</string>
+	<key>Share ideas and credits</key>
+	<string>Teile Ideen und Credits</string>
+	<key>Take a look at me before customizing!</key>
+	<string>Lies mich durch bevor Du etwas erstellst!</string>
+	<key>Title</key>
+	<string>Titel</string>
+	<key>Triggers</key>
+	<string>Neue Aktion</string>
+	<key>Vibrate</key>
+	<string>Vibration</string>
+</dict>
+</plist>
